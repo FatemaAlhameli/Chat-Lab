@@ -1,0 +1,36 @@
+.chat{
+    text-align: center;
+}
+
+.button{
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    width: 4%;
+}
+
+.textbox{
+    border-radius: 4px;
+}
+
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chat-msgs{
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.msg-style{
+    border-bottom: 1px solid #000;
+    text-align: left;
+    height: 35px;
+}
+
+
